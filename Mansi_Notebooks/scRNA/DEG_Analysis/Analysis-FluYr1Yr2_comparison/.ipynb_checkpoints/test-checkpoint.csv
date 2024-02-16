@@ -1,0 +1,72 @@
+AIFI_L3,count
+Core naive B cell,279175
+Core memory B cell,128521
+Transitional B cell,25577
+CD27+ effector B cell,22472
+CD27- effector B cell,14771
+ISG+ naive B cell,9621
+CD95 memory B cell,8346
+Type 2 polarized memory B cell,7737
+Plasma cell,7305
+Early memory B cell,6235
+Activated memory B cell,1281
+CM CD4 T cell,23
+Core naive CD4 T cell,22
+Erythrocyte,8
+CM CD8 T cell,7
+CLP cell,6
+GZMB- CD27+ EM CD4 T cell,5
+pDC,5
+GZMK- CD56dim NK cell,5
+KLRF1- GZMB+ CD27- EM CD8 T cell,4
+KLRF1- GZMB+ CD27- memory CD4 T cell,4
+GZMB- CD27- EM CD4 T cell,3
+GZMK+ CD27+ EM CD8 T cell,3
+ASDC,3
+Core naive CD8 T cell ,3
+GZMB+ Vd2 gdT,2
+Adaptive NK cell,2
+Core CD14 monocyte,2
+Proliferating T cell,2
+Platelet,2
+CD8 MAIT,2
+ILC,2
+DN T cell,1
+ISG+ CD56dim NK cell,1
+C1Q+ CD16 monocyte,1
+Naive CD4 Treg,1
+Memory CD4 Treg,1
+CD8aa,1
+ISG+ memory CD8 T cell,1
+HLA-DRhi cDC2,1
+Core CD16 monocyte,1
+CD14+ cDC2,1
+CMP cell,1
+ISG+ CD16 monocyte,0
+GZMK- CD27+ EM CD8 T cell,0
+cDC1,0
+BaEoMaP cell,0
+SOX4+ naive CD8 T cell,0
+SOX4+ naive CD4 T cell,0
+SOX4+ Vd1 gdT,0
+Proliferating NK cell,0
+GZMK+ CD56dim NK cell,0
+GZMK+ Vd2 gdT,0
+Naive Vd1 gdT,0
+GZMK+ memory CD4 Treg,0
+Memory CD8 Treg,0
+KLRF1- effector Vd1 gdT,0
+ISG+ MAIT,0
+CD4 MAIT,0
+CD56bright NK cell,0
+KLRF1+ effector Vd1 gdT,0
+KLRF1+ GZMB+ CD27- EM CD8 T cell,0
+KLRB1+ memory CD8 Treg,0
+KLRB1+ memory CD4 Treg,0
+Intermediate monocyte,0
+ISG+ naive CD4 T cell,0
+IL1B+ CD14 monocyte,0
+ISG+ CD14 monocyte,0
+ISG+ memory CD4 T cell,0
+ISG+ cDC2,0
+ISG+ naive CD8 T cell,0
