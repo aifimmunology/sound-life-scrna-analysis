@@ -15,14 +15,14 @@ See the README.md files within each subdirectory for additional descriptions of 
 
 #### Analysis
 
-Qiuyu Gong: Analysis lead, composed most original notebook versions
+Qiuyu Gong: Analysis lead, composed most original notebook versions  
 Lucas Graybuck: Review, documentation, linting, and reproducibility management
 
 #### Cell type annotation review
 
-Marla Glass: B cell annotation lead
-Claire Gustafson: Scientific lead; T cell annotation lead
-Emma Kuan: Myeloid cell annotation lead
+Marla Glass: B cell annotation lead  
+Claire Gustafson: Scientific lead; T cell annotation lead  
+Emma Kuan: Myeloid cell annotation lead  
 Tao Peng: NK cell annotation lead
 
 <a id="legal_info"></a>
