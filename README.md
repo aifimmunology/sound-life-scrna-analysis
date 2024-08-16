@@ -16,7 +16,9 @@ See the README.md files within each subdirectory for additional descriptions of 
 #### Analysis
 
 Qiuyu Gong: Analysis lead, composed most original notebook versions  
-Lucas Graybuck: Review, documentation, linting, and reproducibility management
+Lucas Graybuck: Review, documentation, linting, and reproducibility management  
+Mansi Singh: Cell type frequency analysis  
+Mehul Sharma: Additional analyses
 
 #### Cell type annotation review
 
