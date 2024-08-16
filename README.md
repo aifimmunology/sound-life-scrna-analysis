@@ -2,10 +2,10 @@
 
 This repository stores the steps used to generate the AIFI Sound Life cohort dataset based on 10x 3' scRNA-seq data. There are 4 major stages to this process. Each stage is stored in a subdirectory in this repository:
 
-01-sample_selection: Sample selection and retrieval
-02-reference_labeling: Labeling with the AIFI Immune Health Atlas CellTypist models
-03-data-assembly: Assembly of data and labels for use in downstream analysis
-04-file-sets: Notebooks used to build file sets for distribution of data on our website
+**01-sample_selection**: Sample selection and retrieval  
+**02-reference_labeling**: Labeling with the AIFI Immune Health Atlas CellTypist models  
+**03-data-assembly**: Assembly of data and labels for use in downstream analysis  
+**04-file-sets**: Notebooks used to build file sets for distribution of data on our website  
 
 The notebooks in sections 1-3 can be run sequentially based on their numeric prefix. They are also prefixed by the language/notebook kernel used in each (Python or R), as both languages are utilized in this analysis.
 
